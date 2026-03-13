@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm @DubeySarthak001, a B.Tech Computer Science and Engineering student at Medicaps University. I'm passionate about technology, programming, and continuous learning. I enjoy building software, solving complex problems, and exploring new technologies.
+I'm @sarthaakdubey, a B.Tech Computer Science and Engineering student at Medicaps University. I'm passionate about technology, programming, and continuous learning. I enjoy building software, solving complex problems, and exploring new technologies.
 
 - 🌱 I’m currently learning Web Development and Data structures and algorithms.
 - 👯 I’m looking to collaborate on To-Do list application and weather app.
