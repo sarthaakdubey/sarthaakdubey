@@ -13,7 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthaakdubey)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakdubey.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -25,7 +24,7 @@
 name: Sarthak
 role: Full Stack + GenAI Developer
 location: Indore, India
-education: B.Tech CSE — Medi-Caps University (2025)
+education: B.Tech CSE — Medi-Caps University (2026)
 status: Open to SDE / Backend / AI roles
 
 currently_building:
